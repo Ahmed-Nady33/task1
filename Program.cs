@@ -1,6 +1,6 @@
 ﻿
 
-          
+            // Prices and tax
              int smallCarpetPrice = 250 ;
              int largeCarpetPrice = 350;
              double taxRate = .14 ; 
