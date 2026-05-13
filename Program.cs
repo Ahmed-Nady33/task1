@@ -1,6 +1,6 @@
 ﻿
 
-            // Prices and tax
+          
              int smallCarpetPrice = 250 ;
              int largeCarpetPrice = 350;
              double taxRate = .14 ; 
@@ -44,7 +44,7 @@
             Console.WriteLine($"Tax: ${tax}");
             Console.WriteLine("===================================");
             Console.WriteLine($"Total estimate: ${totalEstimate}");
-            Console.WriteLine("This estimate is valid for 30 days");
+            Console.WriteLine("This estimate is valid for 30 days");   
             Console.ReadLine();
 
             
